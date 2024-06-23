@@ -1,0 +1,3 @@
+vpn-uswest2-ec2 ansible_host=ip ansible_user=alvin ansible_ssh_pass=pass123
+yusic-uswest2-ec2 ansible_host=<ip> ansible_user=alvin ansible_ssh_pass=pass123
+web-flopethomes-ec2 ansible_host=<ip> ansible_user=alvin ansible_ssh_pass=pass123
